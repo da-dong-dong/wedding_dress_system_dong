@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/come/come",
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "大东东",
+    "navigationBarBackgroundColor": "#61A3FF",
+    "backgroundColor": "#FFFFFF",
+    "enablePullDownRefresh": false
+  },
+  "usingComponents": {
+    "i-icon": "/wxcomponents/icon/index"
+  },
+  "sitemapLocation": "sitemap68.json"
+}
